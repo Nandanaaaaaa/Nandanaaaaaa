@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/nandana-s--/"><img src="https://img.shields.io/badge/LinkedIn-nandana--s-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
-Hi, I'm **Nandana S**, a passionate **Software Developer** and **Tech Enthusiast**. I love building practical and impactful projects using **JavaScript**, **React**, and **Firebase**, and I'm keen on exploring **open-source** and **community-driven development**.
+Hi, I'm **Nandana S**, a passionate **Software Developer** and **Tech Enthusiast**.Currently I'm a CSE undergraduate at CUSAT. I love building practical and impactful projects using **JavaScript**, **React**, and **Firebase**, and I'm keen on exploring **open-source** and **community-driven development**.
 
 🚀 I've worked on several projects including:
 - **Urban Hub** - An e-commerce platform built with React, Tailwind CSS, Node.js and Firebase, featuring product browsing, cart management and secure payment integration
@@ -65,5 +65,7 @@ Hi, I'm **Nandana S**, a passionate **Software Developer** and **Tech Enthusiast
 </a>
 
 
-**Let's build something awesome together! 🚀**
+<p align="center">
+  <strong>Let's build something awesome together! 🚀</strong>
+</p>
 
