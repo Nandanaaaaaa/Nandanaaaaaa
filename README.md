@@ -37,8 +37,14 @@ Hi, I'm **Nandana S**, a passionate **Software Developer** and **Tech Enthusiast
 </p>
 
 ### Let's connect!
-- [GitHub](https://github.com/Nandanaaaaaa)  
-- [LinkedIn](https://www.linkedin.com/in/nandana-s--/)  
+<p align="center">
+  <a href="https://github.com/Nandanaaaaaa">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nandana-s--/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <p align="center">
   <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api?username=Nandanaaaaaa&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="Nandana's GitHub Stats" />
