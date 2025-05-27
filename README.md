@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="hi.gif" alt="Hi Animation" width="300" />
+</p>
+
 <h1 align="center">👋 Hello I'm Nandana S !</h1>
 <p align="center">
   <a href="https://github.com/Nandanaaaaaa"><img src="https://img.shields.io/github/followers/Nandanaaaaaa?label=Follow&style=social" alt="Follow Nandana on GitHub" /></a>
